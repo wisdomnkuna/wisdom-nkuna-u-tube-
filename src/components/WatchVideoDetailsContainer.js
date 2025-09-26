@@ -69,13 +69,7 @@ const WatchVideoDetailsContainer = () => {
         </span>
         <span className="text-sm">Sort by</span>
       </div>
-
-      <div className="flex gap-4 mb-8 w-full pl-5">
-        <img
-          className="w-10 rounded-full"
-          src="https://yt3.ggpht.com/a/default-user=s88-c-k-c0x00ffffff-no-rj"
-          alt="user-profile"
-        />
+  
         <input
           type="text"
           className="border-b border-gray-300 outline-none focus:border-black w-full self-baseline py-1 placeholder:text-gray-600"
