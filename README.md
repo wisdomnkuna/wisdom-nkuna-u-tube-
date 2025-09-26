@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png"  width="100" alt="logo"/>
-    <h1><a href="https://youtube-clone-tonnykh.vercel.app/">React YouTube Clone</a></h1>
+    <h1><a href="https://youtube-clone-wisdom.vercel.app/">React YouTube Clone</a></h1>
   <p>A React YouTube Clone app where you can watch and search any videos available on YouTube, also you can add comment on Live Chat.</p>
 </div>
 
