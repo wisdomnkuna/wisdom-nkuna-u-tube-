@@ -2,11 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useSearchParams, Link } from "react-router-dom";
 import SearchResultVideoCard from "./SearchResultVideoCard";
 import { useSelector } from "react-redux";
-import {
-  YOUTUBE_SEARCH_VIDEO_API,
-  YOUTUBE_SEARCH_VIDEO_ID_API,
-  YOUTUBE_CHANNEL_DETAILS_API,
-} from "../utils/constants";
+
 
 const SearchResultVideoContainer = () => {
   let [searchParams] = useSearchParams();
